@@ -2,7 +2,11 @@
 #import nacote.week21.dfs_bfs_3
 #import nacote.week21.dfs_bfs_4
 #import nacote.week21.sort_4
-import nacote.week21.binary_2
+#import nacote.week21.binary_2
+#import nacote.week21.binary_3
+
+## 22주차
+import nacote.week22.dp_3
 
 ##add
 #import baekjoon.week15.fibonacci_function
