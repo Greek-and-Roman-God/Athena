@@ -205,7 +205,7 @@
 | :heavy_check_mark: ch03. 큰 수의 법칙 | :heavy_check_mark: 음료수 얼려 먹기 | :heavy_check_mark: 1로 만들기 | 팀 결성 |
 | :heavy_check_mark: ch03. 숫자 카드 게임 | :heavy_check_mark: 미로 탈출 | :heavy_check_mark: 개미 전사 | 도시 분할 계획 |
 | :heavy_check_mark: ch03. 1이 될 때까지 | :heavy_check_mark: 위에서 아래로 | :heavy_check_mark: 바닥 공사 | 커리큘럼 |
-| :heavy_check_mark: ch04. 왕실의 나이트 | :heavy_check_mark: 성적이 낮은 순서로 학생 출력하기 | 효율적인 화폐구성 |  |
+| :heavy_check_mark: ch04. 왕실의 나이트 | :heavy_check_mark: 성적이 낮은 순서로 학생 출력하기 | :heavy_check_mark: 효율적인 화폐구성 |  |
 | :heavy_check_mark: ch04. 게임 개발 | :heavy_check_mark: 두 배열의 원소 교체 | 미래도시 |  |
 |  | :heavy_check_mark: 부품 찾기 | 전보 |  |
 |  | :heavy_check_mark: 떡볶이 떡 만들기 |  |  |
