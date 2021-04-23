@@ -1,12 +1,9 @@
-## 21주차
-#import nacote.week21.dfs_bfs_3
-#import nacote.week21.dfs_bfs_4
-#import nacote.week21.sort_4
-#import nacote.week21.binary_2
-#import nacote.week21.binary_3
+## 23 주차
+#import nacote.week23.graph_2
+#import nacote.week23.graph_3
+#import nacote.week23.graph_4
 
-## 22주차
-import nacote.week22.dp_3
+import nacote.week22.dp_5
 
 ##add
 #import baekjoon.week15.fibonacci_function
