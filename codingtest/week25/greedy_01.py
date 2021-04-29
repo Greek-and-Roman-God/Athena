@@ -8,7 +8,7 @@ ans=0
 cnt=0
 for i in ns:
     cnt+=1
-    if i>=cnt:
+    if i<=cnt:
         cnt=0
         ans+=1
 
