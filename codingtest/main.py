@@ -1,9 +1,4 @@
-## 23 주차
-#import nacote.week23.graph_2
-#import nacote.week23.graph_3
-#import nacote.week23.graph_4
-
-import nacote.week22.dp_5
+import week25.greedy_02
 
 ##add
 #import baekjoon.week15.fibonacci_function
