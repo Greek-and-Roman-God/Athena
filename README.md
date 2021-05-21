@@ -210,8 +210,13 @@
 |  | :heavy_check_mark: 부품 찾기 | :heavy_check_mark: 전보 |  |
 |  | :heavy_check_mark: 떡볶이 떡 만들기 |  |  |
 
-| Week25(~21/05/02) | Week26 (~21/05/08) |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
+| Week25(~21/05/02) | Week26 (~21/05/09) | Week27 (~21/05/16) |
+|---|---|---|
+| (구현) 럭키 스트레이트 | (구현) 자물쇠와 열쇠 | (DFS/BFS) 연구소 |
+| (구현) 문자열 재정렬 | (구현) 뱀 | :heavy_check_mark: (DFS/BFS) 경쟁적 전염 |
+| (구현) 문자열 압축 | (구현) 기둥과 보 설치 | (DFS/BFS) 괄호 변환 |
+| (백준) 타임머신 | (구현) 치킨 배달 | :heavy_check_mark: (정렬) 안테나 |
+| (백준) 플로이드 | (구현) 외벽 점검 | :heavy_check_mark: (정렬) 실패율 |
+|  | :heavy_check_mark: (DFS/BFS) 특정 거리의 도시 찾기 | :heavy_check_mark: (정렬) 카드 정렬하기 |
+|  | :heavy_check_mark: (정렬) 국영수 | (백준) KCM Travel |
+|  | :heavy_check_mark: (백준) 운동 |  |
