@@ -1,4 +1,5 @@
 # 가사 검색
+# 다른풀이 https://dev-note-97.tistory.com/171
 
 from bisect import bisect_left, bisect_right
 
